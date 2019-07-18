@@ -1,7 +1,7 @@
 To run the jar file follow the steps:
 
 1. open command prompt
-2. go to folder jarFile( cd BhusalP1/jarFile)
+2. go to folder jarFil ( cd .../jarFile)
 (folder jarFile contains EntropyCalculator.jar and p1colon.txt)
 3. run the following command for different values of k.
 	java -jar EntropyCalculator.jar 20 p1colon.txt
